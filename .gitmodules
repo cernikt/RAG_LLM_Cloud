@@ -1,0 +1,15 @@
+[submodule "Message_Service_Lambda"]
+	path = Message_Service_Lambda
+	url = https://github.com/cernikt/Message_Service_Lambda.git
+[submodule "Guardrails_Service_Lambda"]
+	path = Guardrails_Service_Lambda
+	url = https://github.com/cernikt/Guardrails_Service_Lambda.git
+[submodule "LLM_Cloud_Frontend"]
+	path = LLM_Cloud_Frontend
+	url = https://github.com/cernikt/LLM_Cloud_Frontend.git
+[submodule "Context_Service_Lambda"]
+	path = Context_Service_Lambda
+	url = https://github.com/cernikt/Context_Service_Lambda.git
+[submodule "LLM_Service_Lambda"]
+	path = LLM_Service_Lambda
+	url = https://github.com/cernikt/LLM_Service_Lambda.git
